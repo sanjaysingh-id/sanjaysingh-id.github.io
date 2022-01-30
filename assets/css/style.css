@@ -1,0 +1,112 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #fdfffc;
+}
+
+.fw-600 {
+	font-weight: 600;
+}
+.fw-700 {
+	font-weight: 700;
+}
+
+.fw-800 {
+	font-weight: 800;
+}
+.text-my {
+	color: #fdfffc;
+}
+.text-ym {
+	color: #011627;
+}
+
+.hello {
+	font-size: 4vw;
+}
+.web {
+	font-size: 2vw;
+	letter-spacing: 4px;
+}
+.btn-kontak {
+	font-size: 1.5vw;
+}
+
+.text-gold {
+	color: gold;
+}
+
+.border-ym {
+	border-bottom: 2px solid #011627;
+}
+
+.card {
+	border: 0;
+	background-color: #011627;
+}
+
+.btn-warning {
+	background-color: #ffc107;
+}
+
+.progress-bar {
+	background-color: #011627;
+}
+
+.svg-1 {
+	margin-bottom: -50px;
+}
+
+/* .icon-project {
+  width: 2rem;
+} */
+
+/* .jumbotron-image {
+  height: 400px;
+  overflow: hidden;
+} */
+
+#wave {
+	overflow: hidden;
+}
+
+header {
+	background-color: #011627;
+}
+
+#home {
+	background-color: #011627;
+	margin-bottom: 0px;
+}
+
+.profil-img {
+	vertical-align: middle;
+	width: 250px;
+	height: 250px;
+	object-fit: cover;
+}
+
+.about-inside {
+	text-align: justify;
+}
+
+.line {
+	width: 100%;
+	height: 2px;
+	background-color: #ffc107;
+	vertical-align: middle;
+}
+
+#education,
+#project,
+#social-media {
+	margin-top: 100px;
+	background-color: #011627;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.card-img-top {
+	width: 70%;
+	height: 8rem;
+	object-fit: cover;
+}
