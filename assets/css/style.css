@@ -105,8 +105,8 @@ header {
 	padding-bottom: 20px;
 }
 
-.card-img-top {
-	width: 70%;
-	height: 8rem;
+.sosmed-photo {
+	width: 50%;
+	height: 10rem;
 	object-fit: cover;
 }
